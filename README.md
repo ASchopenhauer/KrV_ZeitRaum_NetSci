@@ -51,8 +51,9 @@ II. Transzendentale Methodenlehre
 
 ## Démarche
 1. Collecte des données : Téléchargement du format PLAIN TEXT UTF-8 de la Seconde Edition de la <ins>Critique de la Raison Pure</ins> sur le site du Projet Gutenberg (https://gutenberg.org/ebooks/6343). Disponible dans `./data/Corpus_txt/KrV2Aufl.txt`
-2. Prétraitement : Transformation des textes en csv où chaque ligne correspond à une phrase ou bien à un paragraphe lié.e à un identifiant (Selon le type d'analyse mené).
-3. Génération des graphes : Utilisation de Cortext manager (https://www.cortext.net/projects/cortext-manager/).
+2. Sélection des sous-documents (un graphe sera produit par document). Disponibles également dans `./data/Corpus_txt`
+3. Prétraitement : Transformation des textes en csv où chaque ligne correspond à une phrase ou bien à un paragraphe lié.e à un identifiant (Selon le type d'analyse mené).
+4. Génération des graphes : Utilisation de Cortext manager (https://www.cortext.net/projects/cortext-manager/).
 
 ## Résultats
 
