@@ -21,7 +21,19 @@ Les §4-7 portant sur le temps :
 
 ![RECONST-MetEroerterung-RaumZeit_2-4_sentence](https://github.com/ASchopenhauer/KrV_ZeitRaum_NetSci/assets/153139719/2467f39f-c5ce-49c5-8b02-19201533e6d1)
 
+### Troisième Comparaison : Rôle de *Zeit* et *Raum* dans l'<ins>Analytique des Principes</ins>
+
+Vue d'ensemble :
+![KrV2Aufl-TrLogik-TrAnalytik-AnalGrundsaetze_nett_sentence](https://github.com/ASchopenhauer/KrV_ZeitRaum_NetSci/assets/153139719/9a49dd5d-58a9-47cc-b34a-a4b7efb55bdc)
 
 
+Le temps :
+![KrV2Aufl-TrLogik-TrAnalytik-AnalGrundsaetze_nett_focusZeit_sentences](https://github.com/ASchopenhauer/KrV_ZeitRaum_NetSci/assets/153139719/269ece07-c375-4245-9bc2-76f32ec5b543)
+
+L'espace :
+![KrV2Aufl-TrLogik-TrAnalytik-AnalGrundsaetze_nett_focusRaum_sentence](https://github.com/ASchopenhauer/KrV_ZeitRaum_NetSci/assets/153139719/c70b19fe-1eb0-4f08-8b6a-3db0e413f28d)
+
+
+<ins>**Observations**</ins>: Le temps semble avoir plus d'importance dans cette partie du texte.
 
 
